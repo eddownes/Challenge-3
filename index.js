@@ -1,5 +1,5 @@
 function copyAndSortNumbers(numbers) {
-  
+    return numbers.concat().sort();
 }
 
 /* Do not modify code below this line */
